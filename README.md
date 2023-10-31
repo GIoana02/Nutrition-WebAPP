@@ -33,7 +33,7 @@ The application integrates with the [Nutrition API](https://api.api-ninjas.com/v
    git clone https://github.com/GIoana02/Nutrition-WebAPP.git
    cd Nutrition-WebAPP
 
-2. Install docker (https://docs.docker.com/desktop/install/windows-install/)
+2. Install docker (https://docs.docker.com/desktop/)
  
 
 3. Build docker image:
